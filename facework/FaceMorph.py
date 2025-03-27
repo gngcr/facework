@@ -382,7 +382,7 @@ class FaceMorph():
         
   
             # Make sure the directory exists
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        os.makedirs(output_path, exist_ok=True)
         
         # Add file extension
 

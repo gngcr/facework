@@ -6,9 +6,6 @@ import time
 import sys
 import numpy as np
 
-# Optional: Print full NumPy arrays if needed for debugging
-np.set_printoptions(threshold=sys.maxsize)
-
 # --- Load the Two Face Images ---
 
 # It's recommended that img_1 is high quality and taken from a frontal angle
